@@ -196,6 +196,7 @@ article h2 {
   border-left-width: 15px;
   border-color: var(--destaque);
   cursor: pointer;
+  transition-duration: 0.4s;
 }
 
 #formacao-container .periodo {
